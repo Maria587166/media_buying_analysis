@@ -6,7 +6,7 @@ Comparison of advertising performance across Google, Meta, and TikTok to determi
 
 which platform delivers the best return on ad spend, and where budget should 
 
-realistically reallocated. 
+realistically be reallocated. 
 
 Business Question 
 
@@ -98,12 +98,11 @@ campaign type, and industry likely matter more.
 
 Repository Contents 
 
-File  
+File Description 
 
-Description 
-global_ads_performance_dataset.xlsx - Pivot table, ROAS/CPA calculations, t-tests, 
+global_ads_performance_dataset.xlsx - Pivot table, ROAS/CPA calculations, t-tests, correlation
 
-dashboard_preview.png - correlation Screenshot of the final Tableau dashboard 
+dashboard_preview.png - Screenshot of the final Tableau dashboard 
 
  
 
