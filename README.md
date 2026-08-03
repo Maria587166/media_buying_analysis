@@ -41,6 +41,8 @@ Three t-tests (Data Analysis ToolPak): pairwise comparison of CPA between
 
 platforms 
 
+One-way ANOVA to confirm overall significance of CPA differences across all three platforms before pairwise comparison
+
 Correlation (CORREL) between ad spend and ROAS at the individual campaign level 
 
 2. Tableau - Interactive Dashboard, ROAS by platform (bar chart) 
@@ -63,15 +65,16 @@ Meta Ads      $2,106,062         $11,926,046    5.66x $28.75
 
 TikTok Ads  $2,653,419         $20,223,540     7.62x $21.67 
 
-2. All CPA differences between platforms are statistically significant Three t-tests 
+2. ANOVA confirms significant differences, pairwise t-tests show where
 
-(Google vs. TikTok, Google vs. Meta, Meta vs. TikTok) all showed statistically significant 
+One-way ANOVA showed a highly significant overall difference in CPA across platforms (F=132.19, p<0.001). Three follow-
 
-differences (p < 0.001), indicating a stable efficiency ranking rather than random 
+up pairwise t-tests (Google vs. TikTok, Google vs. Meta, Meta vs. TikTok) confirmed the difference exists between 
 
-variation. 
+every pair (p < 0.001 in all cases), indicating a stable efficiency ranking rather than random variation.
 
-3. Google receives almost 60% of the total budget despite being the weakest 
+
+4. Google receives almost 60% of the total budget despite being the weakest 
 
 performer Despite getting the largest share of spend ($6.3M of $11.1M total budget), 
 
